@@ -1,4 +1,4 @@
-![code](https://github.com/it21198540/it21198540/assets/99186535/6e1a8867-6fcb-48b7-8865-57f0e889e441)
+
 
 <h1 align="center">Hi 👋, I'm Praveen Vimod</h1>
 <h3 align="center">BSc(Hons)Information Technology - undergraduate</h3>
